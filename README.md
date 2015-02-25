@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PEDP ADB Loan Number 2928-INO 
 Sistem Manajemen Monitoring dan Evaluasi Peningkatan Mutu Pendidikan Politeknik ABD Loan 2928-INO CIDA Loan 3454
 ====
@@ -11,3 +12,7 @@ This System is created as is web based framework application by using open sourc
 
 
 
+=======
+# vlms
+Validation Logic Management System
+>>>>>>> 797b4287e4a8dca64f69f27a888772c72385d776
