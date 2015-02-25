@@ -1,0 +1,57 @@
+.big {
+  font-size: 1.3em;
+}
+
+.centered {
+  text-align: center;
+}
+
+.form-table {
+  width: 100%;
+  overflow-x: scroll;
+}
+
+.form-table th {
+  min-width: 80px;
+}
+
+.form-table th.very-short {
+  min-width: 10px;
+  width:20px;
+}
+
+form-table th.short{
+  min-width: 20px;
+  width: 20px;
+}
+
+.form-table th.long {
+  min-width: 260px;
+}
+
+.form-table th.very-long {
+  min-width: 500px;
+}
+
+.form-group-small {
+  max-width: 20%;
+  display: inline-block;
+}
+
+#page-wrapper {
+  padding: 10px;
+  margin-top: 25px;
+}
+
+.pedp-header {
+  height: 90px; 
+}
+
+.navbar-static-side {
+  margin-top: 90px;
+}
+
+.nav-second-level {
+  max-height: 100px;
+  overflow-y: scroll;
+}

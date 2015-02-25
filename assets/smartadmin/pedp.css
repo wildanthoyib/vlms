@@ -1,0 +1,217 @@
+#header > #project-context {
+  width: 700px;
+}
+
+.table {
+  margin-bottom: 1px;
+}
+
+.table-overflow {
+  width:100%;
+  height: 100%;
+  position: relative;
+}
+
+body {
+  background:#ffff;
+}
+
+#main-login {
+margin: 0 auto;
+margin-top: 135px;
+margin-bottom:25px;
+border:hidden dashed #800000;
+padding:9px 35px;
+background:#FFFFFF;
+width:510px;
+height:auto;
+grid-columns: 4px;
+font-size: 14px;
+border-radius:20px;
+box-shadow: 5px 5px 4px;}
+}
+  
+#button {
+  border-radius:10px;
+  width:100px;
+  height:40px;
+  background:#800000;
+  font-weight:bold;
+  font-size:20px
+}
+
+#header {
+  background: #333;
+}
+
+.fixed-ribbon #main-login #ribbon {
+  left: 0;
+  right: 0;
+}
+
+#project-context .logo-title {
+  font-size: 1.1em;
+  text-transform: uppercase;
+  color: #000;
+}
+
+#project-context .logo-title:hover {
+  text-decoration: none;
+}
+
+#project-context h3 {
+  margin-top: 0;
+  width: 100%;
+}
+
+#project-context > :first-child {
+  color: #333;
+}
+
+
+aside {
+  display: block;
+  overflow: hidden;
+  background: linear-gradient(to right, #f29f24 93%, #f29f24 100%) repeat scroll 0% 0% transparent;
+  min-height: 100%;
+}
+
+#ribbon {
+  background: none repeat scroll 0% 0% #f29f24;
+}
+
+.login-info > span {
+  border-bottom: 1px solid #006400;
+}
+
+nav ul ul {
+  background: none repeat scroll 0% 0% #d5edae;
+}
+
+nav ul li a {
+  color: #000;
+}
+
+nav ul ul li > a:hover {
+  background-color: rgba(255, 255, 255, 0.7);
+  color: #555;
+}
+
+.minified nav ul {
+  background: none repeat scroll 0% 0% #f29f24;  
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 0.9em;
+  color: #000000;
+  background: rgba(255,255,224, 0.3);
+}
+
+.minified .footer {
+  display: none;
+}
+
+.minified nav > ul > li > ul > li {
+  background-color: #d5edae;
+}
+
+.minified nav > ul > li > ul {
+    background: #f29f24;
+}
+
+.breadcrumb a, #ribbon .breadcrumb {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+.login-info a {
+  text-decoration: none !important;
+  color: #000;
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.option-form .panel-body form .form-group {
+  display: none;
+}
+
+td.short, th.short {
+  width: 20%;
+}
+
+td.very-short, th.very-short {
+  width: 5%;
+}
+
+#shortcut {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.prog_detail_container {
+  margin-top: 15px;
+  clear: both;
+}
+
+.table-contract {
+  display: none;
+}
+
+.table-displayed {
+  display: table-row;
+}
+
+.form-table .select2-max {
+  width: 200px;
+}
+
+.make-inline-block {
+  display: inline-block;
+}
+
+.p-help {
+  clear: both;
+}
+
+.heading-help {
+  border-bottom: 1px solid #000;
+  margin-bottom: 10px;
+}
+
+.widget-body-toolbar .pagination {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 10px;
+}
+
+.column-centered {
+  text-align: center;
+  background-color: #00FF00;
+  border: thick;
+}
+
+.column-mid {
+  text-align: center;
+  border: thick;
+}
+
+.nav-second-level li a {
+  color: #000;
+}
+
+nav ul li.open > a, nav ul li.open > a b {
+    color: #333 !important;
+}
+
+.table-bordered > tbody > tr > .color_cream {
+  background-color: #f5ff70;
+}
+
+.table-striped > tbody > tr:nth-child(2n+1) > .color_cream, .table-striped > tbody > tr:nth-child(2n+1) > .color_cream {
+  background-color: #f5ff70;
+}
+
+.align_right {
+  text-align: right;
+}
